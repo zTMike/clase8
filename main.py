@@ -1,4 +1,5 @@
-import Problema1
+import problema1
+from alumnos import  alumnos
 
 #Definir variables con valor unico
 
@@ -31,9 +32,9 @@ print(len(lista4))
 print(lista4)
 
 print()
-Problema1.sumar_5_enteros()
+problema1.sumar_5_enteros()
 print()
-
+alumnos()
 
 
 
