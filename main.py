@@ -1,4 +1,4 @@
-
+import Problema1
 
 #Definir variables con valor unico
 
@@ -33,7 +33,7 @@ print(lista4)
 print()
 Problema1.sumar_5_enteros()
 print()
-alumnos()
+
 
 
 
